@@ -1,0 +1,41 @@
+PASOS
+
+Solicitar bebida
+Informar valor bebida
+Solicitar dinero
+Validar dinero (cantidad y autenticidad)
+Solicitar dinero faltante y/o devolver dinero sobrante
+Preparar producto
+Entregar producto
+Esperar retira de producto
+Desea otro producto?
+Agradece y finaliza
+
+OBJETOS
+
+Producto
+Pago
+Cliente
+Ingredientes
+Máquina
+MantenimientoPASOS
+
+Solicitar bebida
+Informar valor bebida
+Solicitar dinero
+Validar dinero (cantidad y autenticidad)
+Solicitar dinero faltante y/o devolver dinero sobrante
+Preparar producto
+Entregar producto
+Esperar retira de producto
+Desea otro producto?
+Agradece y finaliza
+
+OBJETOS
+
+Producto
+Pago
+Cliente
+Ingredientes
+Máquina
+Mantenimiento
